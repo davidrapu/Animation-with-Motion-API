@@ -1,3 +1,5 @@
+import {AnimatePresences, Steps} from "./Animations/AnimatePresence";
+import DragAndDrop from "./Animations/DragAndDrop";
 import Fade from "./Animations/Fade";
 import Hovering from "./Animations/Hovering";
 import PositionChange from "./Animations/PositionChange";
@@ -10,6 +12,9 @@ export default function App() {
       <PositionChange />
       <Hovering />
       <StaggeringChildren />
+      <DragAndDrop />
+      <AnimatePresences />
+      <Steps />
     </div>
   );
 }
