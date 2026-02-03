@@ -11,7 +11,6 @@ The goal of this repository is to build a strong understanding of how to impleme
 
 ## 🛠 Tech Stack
 - **React 19** – Frontend framework
-- **React Router** - Client-side routing
 - **motion.dev** - Animation Library
 - **Vite** – Build tool
 - **Tailwind CSS 4** – Styling
