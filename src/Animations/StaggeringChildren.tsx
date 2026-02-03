@@ -5,7 +5,7 @@ const numbers = [1, 2, 3, 4, 5];
 
 const listContainer = {
     hidden: { opacity: 0 },
-    visible: {opacity: 1, transition: {staggerChildren: 0.3}}
+    visible: {opacity: 1, transition: {staggerChildren: 0.3, }}
 }
 
 const listItem = {
