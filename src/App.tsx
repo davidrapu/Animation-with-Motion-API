@@ -1,4 +1,5 @@
 import {AnimatePresences, Steps} from "./Animations/AnimatePresence";
+import CollabsableList from "./Animations/CollabsableList";
 import DragAndDrop from "./Animations/DragAndDrop";
 import Fade from "./Animations/Fade";
 import Hovering from "./Animations/Hovering";
@@ -15,6 +16,7 @@ export default function App() {
       <DragAndDrop />
       <AnimatePresences />
       <Steps />
+      <CollabsableList />
     </div>
   );
 }
