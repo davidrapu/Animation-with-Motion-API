@@ -7,7 +7,7 @@ export default function Fade() {
       <motion.h1
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        transition={{ duration: 0.8 }}
+        transition={{ duration: 0.8}}
       >
         Hello World
       </motion.h1>
